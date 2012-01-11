@@ -1,0 +1,11 @@
+body {background-color:black}
+
+div#container{
+    width:960px !important; height:960px;background:#2A2A2A;
+    margin: 20px auto; padding:25px 0px 0px 20px;
+}
+
+#sliceContainer {height:900px;margin: 0 auto;}
+
+.sliceSpecs {
+    background:url(http://4.bp.blogspot.com/_hs-VsqaEI1g/TJOCMJIKRlI/AAAAAAAACMs/NVlfCwk2ohQ/s1600/rose+pincusion+2.jpg);width:145px; height:145px;float:left; margin:5px}
