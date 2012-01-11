@@ -1,0 +1,30 @@
+div#wrapper{
+    position:relative;
+    width:100%;
+    overflow:hidden;
+    z-index:-1;
+    background:white;
+}
+
+img{
+    height:85%;
+    float:left;
+    z-index:-2;
+    border-radius:5px;
+    margin:5px;
+}
+
+div.container{
+    border: 9px solid rgba(0,0,0,1);
+    border-radius:25%;
+    position:absolute;
+    padding:0px 20px;
+    overflow-x:hidden;
+    height:80px;
+    width:250px;
+    background:transparent;
+    -webkit-box-shadow: 
+        inset 100px 0px 100px -20px rgba(0,0,0,1),
+        inset -110px 0px 100px -20px rgba(0,0,0,1);  
+}
+
